@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "hooks": {
+    "beforeSubmitPrompt": [
+      {
+        "command": ".cursor/on-prompt.sh"
+      }
+    ],
+    "stop": [
+      {
+        "command": ".cursor/on-stop.sh"
+      }
+    ]
+  }
+}

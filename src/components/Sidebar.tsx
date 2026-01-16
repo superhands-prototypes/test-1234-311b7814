@@ -198,7 +198,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
   return (
     <div style={styles.sidebar}>
       <div style={styles.header}>
-        <h1 style={styles.title}>Folders</h1>
+        <h1 style={styles.title}>FOLDRSS!!!</h1>
       </div>
 
       <div style={styles.folderList}>
